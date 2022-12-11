@@ -1,0 +1,24 @@
+.p {
+   font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1em; color: #444; font-weight: 400;
+}
+.name {
+    border-bottom: 1px; border-color: #33485e; width: 60%; min-width: 300px; margin:auto; font-family:  'Open Sans', Arial, Helvetica, sans-serif; font-size: 1.5em; color:white; background-color:#33485e; font-weight:  400;
+}
+.sectionheader {
+    margin-bottom: 10px; margin-top: 20px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1.5em; background-color: #33485e; color: white;font-weight: 600;
+}
+.jobtitle {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1.5em; font-weight: 400;
+}
+.organization {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1.25em; font-style: italic; font-weight: 400;
+}
+.date {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1em;font-weight: 400;
+}
+.ul {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1em; color: #444;font-weight: 400;
+}
+.title {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 3em; color: #33485e;font-weight: 400;
+}   
